@@ -8,8 +8,8 @@ Running code requires Jupyter Notebooks.
 In Final Notebooks you will find the code used for the report. 
 
 The code should be run as follow:
-1. PullingObservedXML.ipynb - gets observed amounts for Met Eireann
-2. ObservedAmountsJSON.ipynb -  gets observed amounts for DarkSky
+1. PullingObservedXML.ipynb - gets observed amounts for Met Eireann exports to observedXML
+2. ObservedAmountsJSON.ipynb -  gets observed amounts for DarkSky exports to observedValues
 3. GettingForcastValuesJSON.ipynb -  gets forecasted amounts from file Data for DarkSky  and exports to csv file forecastNew.
 4. GettingForcastValuesXML.ipynb - gets forecasted amounts from file Data for XML  and exports to csv file forecastXMLNew.
 5. GettingForcastValuesYR.ipynb- gets forecasted amounts from file Data for YR and exports to csv file forecastYR.
