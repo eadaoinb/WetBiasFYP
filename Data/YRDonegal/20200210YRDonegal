@@ -1,0 +1,407 @@
+<weatherdata>
+  <location>
+    <name>Finner Camp</name>
+    <type>Camp</type>
+    <country>Ireland</country>
+    <timezone id="Europe/Dublin" utcoffsetMinutes="0" />
+    <location altitude="47" geobase="geonames" geobaseid="3307849" latitude="54.49389" longitude="-8.23306" />
+  </location>
+  <credit>
+    
+    
+    <link text="Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Ireland/Ulster/Finner_Camp/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Ireland/Ulster/Finner_Camp/forecast.xml" />
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Ireland/Ulster/Finner_Camp/forecast_hour_by_hour.xml" />
+    <link id="overview" url="http://www.yr.no/place/Ireland/Ulster/Finner_Camp/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Ireland/Ulster/Finner_Camp/hour_by_hour" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Ireland/Ulster/Finner_Camp/long" />
+  </links>
+  <meta>
+    <lastupdate>2020-02-10T01:27:12</lastupdate>
+    <nextupdate>2020-02-10T07:35:01</nextupdate>
+  </meta>
+  <sun rise="2020-02-10T08:05:38" set="2020-02-10T17:29:10" />
+  <forecast>
+    <tabular>
+      <time from="2020-02-10T02:00:00" period="0" to="2020-02-10T06:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="0.6" />
+        
+        <windDirection code="W" deg="263.6" name="West" />
+        <windSpeed mps="12.8" name="Strong breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="986.8" />
+      </time>
+      <time from="2020-02-10T06:00:00" period="1" to="2020-02-10T12:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05d" />
+        <precipitation value="3.4" />
+        
+        <windDirection code="WSW" deg="250.5" name="West-southwest" />
+        <windSpeed mps="10.7" name="Fresh breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="987.9" />
+      </time>
+      <time from="2020-02-10T12:00:00" period="2" to="2020-02-10T18:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05d" />
+        <precipitation value="2.6" />
+        
+        <windDirection code="WSW" deg="253.7" name="West-southwest" />
+        <windSpeed mps="12.4" name="Strong breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="987.2" />
+      </time>
+      <time from="2020-02-10T18:00:00" period="3" to="2020-02-11T00:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="3.6" />
+        
+        <windDirection code="WSW" deg="256.3" name="West-southwest" />
+        <windSpeed mps="15.2" name="Near gale" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="988.1" />
+      </time>
+      <time from="2020-02-11T00:00:00" period="0" to="2020-02-11T06:00:00">
+        
+        <symbol name="Sleet showers" number="7" numberEx="7" var="07n" />
+        <precipitation value="3.4" />
+        
+        <windDirection code="W" deg="263.6" name="West" />
+        <windSpeed mps="12.8" name="Strong breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="994.9" />
+      </time>
+      <time from="2020-02-11T06:00:00" period="1" to="2020-02-11T12:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="4.1" />
+        
+        <windDirection code="W" deg="266.6" name="West" />
+        <windSpeed mps="12.4" name="Strong breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="997.4" />
+      </time>
+      <time from="2020-02-11T12:00:00" period="2" to="2020-02-11T18:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="4.2" />
+        
+        <windDirection code="W" deg="265.6" name="West" />
+        <windSpeed mps="11.6" name="Strong breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="999.9" />
+      </time>
+      <time from="2020-02-11T18:00:00" period="3" to="2020-02-12T00:00:00">
+        
+        <symbol name="Sleet showers" number="7" numberEx="7" var="07n" />
+        <precipitation value="4.2" />
+        
+        <windDirection code="W" deg="267.5" name="West" />
+        <windSpeed mps="12.9" name="Strong breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1001.6" />
+      </time>
+      <time from="2020-02-12T00:00:00" period="0" to="2020-02-12T06:00:00">
+        
+        <symbol name="Sleet showers" number="7" numberEx="7" var="07n" />
+        <precipitation value="1.9" />
+        
+        <windDirection code="W" deg="267.2" name="West" />
+        <windSpeed mps="10.5" name="Fresh breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1004.4" />
+      </time>
+      <time from="2020-02-12T06:00:00" period="1" to="2020-02-12T12:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05d" />
+        <precipitation value="2.7" />
+        
+        <windDirection code="W" deg="268.8" name="West" />
+        <windSpeed mps="8.5" name="Fresh breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1006.2" />
+      </time>
+      <time from="2020-02-12T12:00:00" period="2" to="2020-02-12T18:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0.3" />
+        
+        <windDirection code="WSW" deg="252.6" name="West-southwest" />
+        <windSpeed mps="7.3" name="Moderate breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2020-02-12T18:00:00" period="3" to="2020-02-13T00:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="4.6" />
+        
+        <windDirection code="SSE" deg="149.0" name="South-southeast" />
+        <windSpeed mps="3.0" name="Light breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1004.6" />
+      </time>
+      <time from="2020-02-13T00:00:00" period="0" to="2020-02-13T06:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="1.8" />
+        
+        <windDirection code="SE" deg="129.8" name="Southeast" />
+        <windSpeed mps="6.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="990.9" />
+      </time>
+      <time from="2020-02-13T06:00:00" period="1" to="2020-02-13T12:00:00">
+        
+        <symbol name="Light rain showers" number="5" numberEx="40" var="40d" />
+        <precipitation value="0.6" />
+        
+        <windDirection code="S" deg="170.1" name="South" />
+        <windSpeed mps="5.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="982.9" />
+      </time>
+      <time from="2020-02-13T12:00:00" period="2" to="2020-02-13T18:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02d" />
+        <precipitation value="0.4" />
+        
+        <windDirection code="NW" deg="322.1" name="Northwest" />
+        <windSpeed mps="3.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="990.6" />
+      </time>
+      <time from="2020-02-13T18:00:00" period="3" to="2020-02-14T00:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="322.2" name="Northwest" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1005.2" />
+      </time>
+      <time from="2020-02-14T00:00:00" period="0" to="2020-02-14T06:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="151.3" name="South-southeast" />
+        <windSpeed mps="2.1" name="Light breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1011.9" />
+      </time>
+      <time from="2020-02-14T06:00:00" period="1" to="2020-02-14T12:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="2.1" />
+        
+        <windDirection code="SE" deg="138.6" name="Southeast" />
+        <windSpeed mps="5.9" name="Moderate breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1007.7" />
+      </time>
+      <time from="2020-02-14T12:00:00" period="2" to="2020-02-14T18:00:00">
+        
+        <symbol name="Light rain showers" number="5" numberEx="40" var="40d" />
+        <precipitation value="0.9" />
+        
+        <windDirection code="S" deg="184.8" name="South" />
+        <windSpeed mps="8.2" name="Fresh breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1000.7" />
+      </time>
+      <time from="2020-02-14T18:00:00" period="3" to="2020-02-15T00:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SW" deg="220.6" name="Southwest" />
+        <windSpeed mps="8.0" name="Fresh breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1001.7" />
+      </time>
+      <time from="2020-02-15T00:00:00" period="0" to="2020-02-15T06:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03n" />
+        <precipitation value="0.1" />
+        
+        <windDirection code="SSW" deg="208.3" name="South-southwest" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1004.7" />
+      </time>
+      <time from="2020-02-15T06:00:00" period="1" to="2020-02-15T12:00:00">
+        
+        <symbol name="Heavy rain" number="10" numberEx="10" var="10" />
+        <precipitation value="11.2" />
+        
+        <windDirection code="S" deg="175.2" name="South" />
+        <windSpeed mps="7.4" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="997.8" />
+      </time>
+      <time from="2020-02-15T12:00:00" period="2" to="2020-02-15T18:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="2.4" />
+        
+        <windDirection code="SW" deg="226.7" name="Southwest" />
+        <windSpeed mps="9.8" name="Fresh breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="984.6" />
+      </time>
+      <time from="2020-02-15T18:00:00" period="3" to="2020-02-16T00:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="4.1" />
+        
+        <windDirection code="WSW" deg="240.0" name="West-southwest" />
+        <windSpeed mps="10.6" name="Fresh breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="988.3" />
+      </time>
+      <time from="2020-02-16T00:00:00" period="0" to="2020-02-16T06:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="3.3" />
+        
+        <windDirection code="SW" deg="230.8" name="Southwest" />
+        <windSpeed mps="4.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="988.2" />
+      </time>
+      <time from="2020-02-16T06:00:00" period="1" to="2020-02-16T12:00:00">
+        
+        <symbol name="Heavy rain" number="10" numberEx="10" var="10" />
+        <precipitation value="5.5" />
+        
+        <windDirection code="WSW" deg="244.9" name="West-southwest" />
+        <windSpeed mps="11.4" name="Strong breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="989.6" />
+      </time>
+      <time from="2020-02-16T12:00:00" period="2" to="2020-02-16T18:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="3.3" />
+        
+        <windDirection code="WSW" deg="246.9" name="West-southwest" />
+        <windSpeed mps="9.6" name="Fresh breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="992.4" />
+      </time>
+      <time from="2020-02-16T18:00:00" period="3" to="2020-02-17T00:00:00">
+        
+        <symbol name="Light rain" number="9" numberEx="46" var="46" />
+        <precipitation value="0.5" />
+        
+        <windDirection code="WSW" deg="250.1" name="West-southwest" />
+        <windSpeed mps="9.2" name="Fresh breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="998.5" />
+      </time>
+      <time from="2020-02-17T00:00:00" period="0" to="2020-02-17T06:00:00">
+        
+        <symbol name="Light rain showers" number="5" numberEx="40" var="40n" />
+        <precipitation value="0.6" />
+        
+        <windDirection code="SW" deg="228.7" name="Southwest" />
+        <windSpeed mps="7.3" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1001.6" />
+      </time>
+      <time from="2020-02-17T06:00:00" period="1" to="2020-02-17T12:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05d" />
+        <precipitation value="3.6" />
+        
+        <windDirection code="WSW" deg="251.2" name="West-southwest" />
+        <windSpeed mps="9.3" name="Fresh breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1003.5" />
+      </time>
+      <time from="2020-02-17T12:00:00" period="2" to="2020-02-17T18:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05d" />
+        <precipitation value="1.4" />
+        
+        <windDirection code="W" deg="262.9" name="West" />
+        <windSpeed mps="11.4" name="Strong breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+      <time from="2020-02-17T18:00:00" period="3" to="2020-02-18T00:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05n" />
+        <precipitation value="1.1" />
+        
+        <windDirection code="W" deg="260.1" name="West" />
+        <windSpeed mps="10.4" name="Fresh breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1015.0" />
+      </time>
+      <time from="2020-02-18T00:00:00" period="0" to="2020-02-18T06:00:00">
+        
+        <symbol name="Light rain showers" number="5" numberEx="40" var="40n" />
+        <precipitation value="0.6" />
+        
+        <windDirection code="WSW" deg="245.8" name="West-southwest" />
+        <windSpeed mps="8.2" name="Fresh breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1018.8" />
+      </time>
+      <time from="2020-02-18T06:00:00" period="1" to="2020-02-18T12:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0.2" />
+        
+        <windDirection code="WSW" deg="244.6" name="West-southwest" />
+        <windSpeed mps="7.3" name="Moderate breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1020.0" />
+      </time>
+      <time from="2020-02-18T12:00:00" period="2" to="2020-02-18T18:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0.1" />
+        
+        <windDirection code="SW" deg="224.2" name="Southwest" />
+        <windSpeed mps="6.2" name="Moderate breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1020.4" />
+      </time>
+      <time from="2020-02-18T18:00:00" period="3" to="2020-02-19T00:00:00">
+        
+        <symbol name="Heavy rain showers" number="5" numberEx="41" var="41n" />
+        <precipitation value="6.8" />
+        
+        <windDirection code="SSW" deg="201.5" name="South-southwest" />
+        <windSpeed mps="6.7" name="Moderate breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1015.7" />
+      </time>
+      <time from="2020-02-19T00:00:00" period="0" to="2020-02-19T06:00:00">
+        
+        <symbol name="Rain showers" number="5" numberEx="5" var="05n" />
+        <precipitation value="1.6" />
+        
+        <windDirection code="W" deg="266.3" name="West" />
+        <windSpeed mps="11.1" name="Strong breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1014.4" />
+      </time>
+    </tabular>
+  </forecast>
+  <weatherstation distance="0" lat="0" lon="0" name="" source="" stno="0" sttype="">
+    
+    <symbol name="" number="0" time="2019-11-14T00:00:00Z" />
+    <temperature time="2019-11-14T00:00:00Z" unit="" value="0" />
+    <windDirection code="" deg="0" name="" time="2019-11-14T00:00:00Z" />
+    <windSpeed mps="0" name="" time="2019-11-14T00:00:00Z" />
+  </weatherstation>
+</weatherdata>

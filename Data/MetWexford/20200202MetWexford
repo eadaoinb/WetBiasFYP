@@ -1,0 +1,2102 @@
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" created="2020-02-02T13:47:24Z" xsi:noNamespaceSchemaLocation="http://api.met.no/weatherapi/locationforecast/1.9/schema">
+   <meta>
+      <model from="2020-02-02T14:00:00Z" name="harmonie" nextrun="2020-02-02T16:00:00Z" runended="2020-02-02T09:17:20Z" termin="2020-02-02T06:00:00Z" to="2020-02-04T12:00:00Z" />
+      <model from="2020-02-04T13:00:00Z" name="ec_n1280_1hr" nextrun="2020-02-02T18:00:00Z" runended="2020-02-02T09:17:20Z" termin="2020-02-02T00:00:00Z" to="2020-02-05T18:00:00Z" />
+      <model from="2020-02-05T21:00:00Z" name="ec_n1280_3hr" nextrun="2020-02-02T18:00:00Z" runended="2020-02-02T09:17:20Z" termin="2020-02-02T00:00:00Z" to="2020-02-08T00:00:00Z" />
+      <model from="2020-02-08T06:00:00Z" name="ec_n1280_6hr" nextrun="2020-02-02T18:00:00Z" runended="2020-02-02T09:17:20Z" termin="2020-02-02T00:00:00Z" to="2020-02-12T00:00:00Z" />
+      </meta>
+   <product class="pointData">
+      <time datatype="forecast" from="2020-02-02T14:00:00Z" to="2020-02-02T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.6" />
+            <windDirection deg="246.9" id="dd" name="SW" />
+            <windSpeed beaufort="5" id="ff" mps="11.1" name="Frisk bris" />
+            <humidity unit="percent" value="88.7" />
+            <pressure id="pr" unit="hPa" value="1003.7" />
+            <cloudiness id="NN" percent="90.6" />
+            <lowClouds id="LOW" percent="81.6" />
+            <mediumClouds id="MEDIUM" percent="22.0" />
+            <highClouds id="HIGH" percent="44.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T13:00:00Z" to="2020-02-02T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.2" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T15:00:00Z" to="2020-02-02T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.9" />
+            <windDirection deg="258.0" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="11.2" name="Frisk bris" />
+            <humidity unit="percent" value="87.7" />
+            <pressure id="pr" unit="hPa" value="1003.8" />
+            <cloudiness id="NN" percent="99.9" />
+            <lowClouds id="LOW" percent="79.4" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="98.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T14:00:00Z" to="2020-02-02T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.1" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T16:00:00Z" to="2020-02-02T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.4" />
+            <windDirection deg="256.8" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="9.7" name="Frisk bris" />
+            <humidity unit="percent" value="91.2" />
+            <pressure id="pr" unit="hPa" value="1004.2" />
+            <cloudiness id="NN" percent="100.0" />
+            <lowClouds id="LOW" percent="36.1" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T15:00:00Z" to="2020-02-02T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.1" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T17:00:00Z" to="2020-02-02T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.1" />
+            <windDirection deg="264.1" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="9.9" name="Frisk bris" />
+            <humidity unit="percent" value="87.8" />
+            <pressure id="pr" unit="hPa" value="1004.5" />
+            <cloudiness id="NN" percent="100.0" />
+            <lowClouds id="LOW" percent="26.5" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T16:00:00Z" to="2020-02-02T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.3" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T18:00:00Z" to="2020-02-02T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.6" />
+            <windDirection deg="271.4" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="8.8" name="Frisk bris" />
+            <humidity unit="percent" value="91.7" />
+            <pressure id="pr" unit="hPa" value="1005.1" />
+            <cloudiness id="NN" percent="100.0" />
+            <lowClouds id="LOW" percent="35.1" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T17:00:00Z" to="2020-02-02T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.3" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T19:00:00Z" to="2020-02-02T19:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.3" />
+            <windDirection deg="260.7" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="8.8" name="Frisk bris" />
+            <humidity unit="percent" value="87.7" />
+            <pressure id="pr" unit="hPa" value="1005.5" />
+            <cloudiness id="NN" percent="99.2" />
+            <lowClouds id="LOW" percent="0.7" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="99.2" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T18:00:00Z" to="2020-02-02T19:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T20:00:00Z" to="2020-02-02T20:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.6" />
+            <windDirection deg="256.6" id="dd" name="W" />
+            <windSpeed beaufort="6" id="ff" mps="11.7" name="Liten kuling" />
+            <humidity unit="percent" value="84.0" />
+            <pressure id="pr" unit="hPa" value="1005.4" />
+            <cloudiness id="NN" percent="99.8" />
+            <lowClouds id="LOW" percent="0.2" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="99.8" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T19:00:00Z" to="2020-02-02T20:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T21:00:00Z" to="2020-02-02T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.7" />
+            <windDirection deg="261.5" id="dd" name="W" />
+            <windSpeed beaufort="6" id="ff" mps="12.1" name="Liten kuling" />
+            <humidity unit="percent" value="83.0" />
+            <pressure id="pr" unit="hPa" value="1005.6" />
+            <cloudiness id="NN" percent="85.6" />
+            <lowClouds id="LOW" percent="66.2" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="71.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T20:00:00Z" to="2020-02-02T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T22:00:00Z" to="2020-02-02T22:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.1" />
+            <windDirection deg="277.9" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="10.1" name="Frisk bris" />
+            <humidity unit="percent" value="85.0" />
+            <pressure id="pr" unit="hPa" value="1006.7" />
+            <cloudiness id="NN" percent="46.4" />
+            <lowClouds id="LOW" percent="31.3" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="25.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T21:00:00Z" to="2020-02-02T22:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T23:00:00Z" to="2020-02-02T23:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.3" />
+            <windDirection deg="274.4" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="9.4" name="Frisk bris" />
+            <humidity unit="percent" value="78.0" />
+            <pressure id="pr" unit="hPa" value="1007.7" />
+            <cloudiness id="NN" percent="62.5" />
+            <lowClouds id="LOW" percent="2.6" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="60.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="3.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T22:00:00Z" to="2020-02-02T23:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T00:00:00Z" to="2020-02-03T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.8" />
+            <windDirection deg="268.1" id="dd" name="W" />
+            <windSpeed beaufort="5" id="ff" mps="9.1" name="Frisk bris" />
+            <humidity unit="percent" value="84.1" />
+            <pressure id="pr" unit="hPa" value="1008.5" />
+            <cloudiness id="NN" percent="97.2" />
+            <lowClouds id="LOW" percent="25.8" />
+            <mediumClouds id="MEDIUM" percent="0.1" />
+            <highClouds id="HIGH" percent="94.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="4.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-02T23:00:00Z" to="2020-02-03T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T01:00:00Z" to="2020-02-03T01:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.9" />
+            <windDirection deg="270.4" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="8.3" name="Laber bris" />
+            <humidity unit="percent" value="83.8" />
+            <pressure id="pr" unit="hPa" value="1009.7" />
+            <cloudiness id="NN" percent="99.9" />
+            <lowClouds id="LOW" percent="34.6" />
+            <mediumClouds id="MEDIUM" percent="3.4" />
+            <highClouds id="HIGH" percent="99.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="4.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T00:00:00Z" to="2020-02-03T01:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T02:00:00Z" to="2020-02-03T02:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.5" />
+            <windDirection deg="270.5" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.7" name="Laber bris" />
+            <humidity unit="percent" value="86.6" />
+            <pressure id="pr" unit="hPa" value="1010.3" />
+            <cloudiness id="NN" percent="99.1" />
+            <lowClouds id="LOW" percent="31.5" />
+            <mediumClouds id="MEDIUM" percent="2.4" />
+            <highClouds id="HIGH" percent="98.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="4.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T01:00:00Z" to="2020-02-03T02:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T03:00:00Z" to="2020-02-03T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.7" />
+            <windDirection deg="274.7" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.8" name="Laber bris" />
+            <humidity unit="percent" value="84.9" />
+            <pressure id="pr" unit="hPa" value="1011.0" />
+            <cloudiness id="NN" percent="100.0" />
+            <lowClouds id="LOW" percent="58.2" />
+            <mediumClouds id="MEDIUM" percent="3.4" />
+            <highClouds id="HIGH" percent="99.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="4.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T02:00:00Z" to="2020-02-03T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T04:00:00Z" to="2020-02-03T04:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.0" />
+            <windDirection deg="278.4" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="6.9" name="Laber bris" />
+            <humidity unit="percent" value="86.0" />
+            <pressure id="pr" unit="hPa" value="1011.7" />
+            <cloudiness id="NN" percent="98.2" />
+            <lowClouds id="LOW" percent="0.8" />
+            <mediumClouds id="MEDIUM" percent="1.5" />
+            <highClouds id="HIGH" percent="98.2" />
+            <dewpointTemperature id="TD" unit="celsius" value="3.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T03:00:00Z" to="2020-02-03T04:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T05:00:00Z" to="2020-02-03T05:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.8" />
+            <windDirection deg="281.4" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.2" name="Laber bris" />
+            <humidity unit="percent" value="78.2" />
+            <pressure id="pr" unit="hPa" value="1012.0" />
+            <cloudiness id="NN" percent="99.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="2.3" />
+            <highClouds id="HIGH" percent="99.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T04:00:00Z" to="2020-02-03T05:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T06:00:00Z" to="2020-02-03T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.3" />
+            <windDirection deg="280.1" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="6.0" name="Laber bris" />
+            <humidity unit="percent" value="77.5" />
+            <pressure id="pr" unit="hPa" value="1012.8" />
+            <cloudiness id="NN" percent="99.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="3.0" />
+            <highClouds id="HIGH" percent="99.8" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T05:00:00Z" to="2020-02-03T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T07:00:00Z" to="2020-02-03T07:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.8" />
+            <windDirection deg="279.7" id="dd" name="W" />
+            <windSpeed beaufort="3" id="ff" mps="5.2" name="Lett bris" />
+            <humidity unit="percent" value="80.0" />
+            <pressure id="pr" unit="hPa" value="1013.4" />
+            <cloudiness id="NN" percent="98.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="3.1" />
+            <highClouds id="HIGH" percent="98.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T06:00:00Z" to="2020-02-03T07:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T08:00:00Z" to="2020-02-03T08:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.1" />
+            <windDirection deg="277.4" id="dd" name="W" />
+            <windSpeed beaufort="3" id="ff" mps="4.7" name="Lett bris" />
+            <humidity unit="percent" value="81.3" />
+            <pressure id="pr" unit="hPa" value="1013.8" />
+            <cloudiness id="NN" percent="97.6" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="1.4" />
+            <highClouds id="HIGH" percent="97.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T07:00:00Z" to="2020-02-03T08:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T09:00:00Z" to="2020-02-03T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.0" />
+            <windDirection deg="269.8" id="dd" name="W" />
+            <windSpeed beaufort="3" id="ff" mps="4.4" name="Lett bris" />
+            <humidity unit="percent" value="86.5" />
+            <pressure id="pr" unit="hPa" value="1014.5" />
+            <cloudiness id="NN" percent="99.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="5.0" />
+            <highClouds id="HIGH" percent="99.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T08:00:00Z" to="2020-02-03T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T10:00:00Z" to="2020-02-03T10:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.2" />
+            <windDirection deg="270.4" id="dd" name="W" />
+            <windSpeed beaufort="3" id="ff" mps="5.4" name="Lett bris" />
+            <humidity unit="percent" value="81.1" />
+            <pressure id="pr" unit="hPa" value="1015.1" />
+            <cloudiness id="NN" percent="99.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="0.4" />
+            <highClouds id="HIGH" percent="99.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T09:00:00Z" to="2020-02-03T10:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T11:00:00Z" to="2020-02-03T11:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.3" />
+            <windDirection deg="276.4" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="5.8" name="Laber bris" />
+            <humidity unit="percent" value="76.5" />
+            <pressure id="pr" unit="hPa" value="1015.6" />
+            <cloudiness id="NN" percent="89.6" />
+            <lowClouds id="LOW" percent="1.3" />
+            <mediumClouds id="MEDIUM" percent="0.3" />
+            <highClouds id="HIGH" percent="89.4" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T10:00:00Z" to="2020-02-03T11:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T12:00:00Z" to="2020-02-03T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.2" />
+            <windDirection deg="286.3" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="6.5" name="Laber bris" />
+            <humidity unit="percent" value="72.4" />
+            <pressure id="pr" unit="hPa" value="1016.1" />
+            <cloudiness id="NN" percent="100.0" />
+            <lowClouds id="LOW" percent="13.3" />
+            <mediumClouds id="MEDIUM" percent="0.1" />
+            <highClouds id="HIGH" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T11:00:00Z" to="2020-02-03T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T13:00:00Z" to="2020-02-03T13:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.0" />
+            <windDirection deg="292.2" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.7" name="Laber bris" />
+            <humidity unit="percent" value="68.2" />
+            <pressure id="pr" unit="hPa" value="1016.2" />
+            <cloudiness id="NN" percent="99.2" />
+            <lowClouds id="LOW" percent="72.7" />
+            <mediumClouds id="MEDIUM" percent="0.5" />
+            <highClouds id="HIGH" percent="84.8" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T12:00:00Z" to="2020-02-03T13:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T14:00:00Z" to="2020-02-03T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.6" />
+            <windDirection deg="296.8" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="7.3" name="Laber bris" />
+            <humidity unit="percent" value="69.8" />
+            <pressure id="pr" unit="hPa" value="1016.2" />
+            <cloudiness id="NN" percent="49.5" />
+            <lowClouds id="LOW" percent="49.5" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T13:00:00Z" to="2020-02-03T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T15:00:00Z" to="2020-02-03T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.4" />
+            <windDirection deg="292.2" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.9" name="Laber bris" />
+            <humidity unit="percent" value="71.0" />
+            <pressure id="pr" unit="hPa" value="1016.3" />
+            <cloudiness id="NN" percent="24.7" />
+            <lowClouds id="LOW" percent="24.7" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T14:00:00Z" to="2020-02-03T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T16:00:00Z" to="2020-02-03T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.1" />
+            <windDirection deg="292.0" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="8.3" name="Laber bris" />
+            <humidity unit="percent" value="67.9" />
+            <pressure id="pr" unit="hPa" value="1016.5" />
+            <cloudiness id="NN" percent="16.5" />
+            <lowClouds id="LOW" percent="16.5" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T15:00:00Z" to="2020-02-03T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T17:00:00Z" to="2020-02-03T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.9" />
+            <windDirection deg="302.0" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="7.9" name="Laber bris" />
+            <humidity unit="percent" value="84.0" />
+            <pressure id="pr" unit="hPa" value="1016.9" />
+            <cloudiness id="NN" percent="41.8" />
+            <lowClouds id="LOW" percent="41.8" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T16:00:00Z" to="2020-02-03T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.3" minvalue="0.0" unit="mm" value="0.2" />
+<symbol id="DrizzleSun" number="40" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T18:00:00Z" to="2020-02-03T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.1" />
+            <windDirection deg="293.7" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="7.8" name="Laber bris" />
+            <humidity unit="percent" value="84.1" />
+            <pressure id="pr" unit="hPa" value="1017.5" />
+            <cloudiness id="NN" percent="0.1" />
+            <lowClouds id="LOW" percent="0.1" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T17:00:00Z" to="2020-02-03T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T19:00:00Z" to="2020-02-03T19:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.7" />
+            <windDirection deg="290.6" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.2" name="Laber bris" />
+            <humidity unit="percent" value="85.7" />
+            <pressure id="pr" unit="hPa" value="1017.8" />
+            <cloudiness id="NN" percent="0.2" />
+            <lowClouds id="LOW" percent="0.2" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T18:00:00Z" to="2020-02-03T19:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T20:00:00Z" to="2020-02-03T20:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.6" />
+            <windDirection deg="291.6" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.3" name="Laber bris" />
+            <humidity unit="percent" value="83.3" />
+            <pressure id="pr" unit="hPa" value="1018.5" />
+            <cloudiness id="NN" percent="13.5" />
+            <lowClouds id="LOW" percent="13.5" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T19:00:00Z" to="2020-02-03T20:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T21:00:00Z" to="2020-02-03T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.5" />
+            <windDirection deg="295.4" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="7.5" name="Laber bris" />
+            <humidity unit="percent" value="85.4" />
+            <pressure id="pr" unit="hPa" value="1019.3" />
+            <cloudiness id="NN" percent="16.7" />
+            <lowClouds id="LOW" percent="16.7" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T20:00:00Z" to="2020-02-03T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T22:00:00Z" to="2020-02-03T22:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.8" />
+            <windDirection deg="287.4" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.6" name="Laber bris" />
+            <humidity unit="percent" value="86.0" />
+            <pressure id="pr" unit="hPa" value="1019.8" />
+            <cloudiness id="NN" percent="43.5" />
+            <lowClouds id="LOW" percent="43.5" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T21:00:00Z" to="2020-02-03T22:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T23:00:00Z" to="2020-02-03T23:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.2" />
+            <windDirection deg="290.3" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="8.5" name="Laber bris" />
+            <humidity unit="percent" value="82.2" />
+            <pressure id="pr" unit="hPa" value="1019.9" />
+            <cloudiness id="NN" percent="29.8" />
+            <lowClouds id="LOW" percent="29.8" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T22:00:00Z" to="2020-02-03T23:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T00:00:00Z" to="2020-02-04T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.2" />
+            <windDirection deg="294.1" id="dd" name="NW" />
+            <windSpeed beaufort="5" id="ff" mps="8.8" name="Frisk bris" />
+            <humidity unit="percent" value="81.7" />
+            <pressure id="pr" unit="hPa" value="1020.3" />
+            <cloudiness id="NN" percent="0.6" />
+            <lowClouds id="LOW" percent="0.6" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-03T23:00:00Z" to="2020-02-04T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T01:00:00Z" to="2020-02-04T01:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.4" />
+            <windDirection deg="296.2" id="dd" name="NW" />
+            <windSpeed beaufort="5" id="ff" mps="9.6" name="Frisk bris" />
+            <humidity unit="percent" value="80.6" />
+            <pressure id="pr" unit="hPa" value="1020.7" />
+            <cloudiness id="NN" percent="0.2" />
+            <lowClouds id="LOW" percent="0.2" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T00:00:00Z" to="2020-02-04T01:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T02:00:00Z" to="2020-02-04T02:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.6" />
+            <windDirection deg="295.6" id="dd" name="NW" />
+            <windSpeed beaufort="5" id="ff" mps="8.9" name="Frisk bris" />
+            <humidity unit="percent" value="79.6" />
+            <pressure id="pr" unit="hPa" value="1021.3" />
+            <cloudiness id="NN" percent="1.6" />
+            <lowClouds id="LOW" percent="1.4" />
+            <mediumClouds id="MEDIUM" percent="0.2" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T01:00:00Z" to="2020-02-04T02:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T03:00:00Z" to="2020-02-04T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.8" />
+            <windDirection deg="310.2" id="dd" name="NW" />
+            <windSpeed beaufort="5" id="ff" mps="9.4" name="Frisk bris" />
+            <humidity unit="percent" value="79.4" />
+            <pressure id="pr" unit="hPa" value="1022.6" />
+            <cloudiness id="NN" percent="90.2" />
+            <lowClouds id="LOW" percent="89.5" />
+            <mediumClouds id="MEDIUM" percent="31.9" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T02:00:00Z" to="2020-02-04T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.1" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T04:00:00Z" to="2020-02-04T04:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.6" />
+            <windDirection deg="309.6" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="8.1" name="Laber bris" />
+            <humidity unit="percent" value="84.2" />
+            <pressure id="pr" unit="hPa" value="1023.1" />
+            <cloudiness id="NN" percent="81.7" />
+            <lowClouds id="LOW" percent="81.7" />
+            <mediumClouds id="MEDIUM" percent="5.9" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T03:00:00Z" to="2020-02-04T04:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.1" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T05:00:00Z" to="2020-02-04T05:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.5" />
+            <windDirection deg="306.9" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="6.1" name="Laber bris" />
+            <humidity unit="percent" value="88.1" />
+            <pressure id="pr" unit="hPa" value="1024.3" />
+            <cloudiness id="NN" percent="75.1" />
+            <lowClouds id="LOW" percent="74.4" />
+            <mediumClouds id="MEDIUM" percent="29.3" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T04:00:00Z" to="2020-02-04T05:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T06:00:00Z" to="2020-02-04T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.0" />
+            <windDirection deg="308.4" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="6.5" name="Laber bris" />
+            <humidity unit="percent" value="87.7" />
+            <pressure id="pr" unit="hPa" value="1025.5" />
+            <cloudiness id="NN" percent="3.7" />
+            <lowClouds id="LOW" percent="3.7" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T05:00:00Z" to="2020-02-04T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T07:00:00Z" to="2020-02-04T07:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.6" />
+            <windDirection deg="298.9" id="dd" name="NW" />
+            <windSpeed beaufort="3" id="ff" mps="4.4" name="Lett bris" />
+            <humidity unit="percent" value="89.6" />
+            <pressure id="pr" unit="hPa" value="1027.1" />
+            <cloudiness id="NN" percent="37.8" />
+            <lowClouds id="LOW" percent="36.2" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="6.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T06:00:00Z" to="2020-02-04T07:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T08:00:00Z" to="2020-02-04T08:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.1" />
+            <windDirection deg="303.0" id="dd" name="NW" />
+            <windSpeed beaufort="3" id="ff" mps="4.0" name="Lett bris" />
+            <humidity unit="percent" value="90.1" />
+            <pressure id="pr" unit="hPa" value="1028.6" />
+            <cloudiness id="NN" percent="31.1" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="31.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T07:00:00Z" to="2020-02-04T08:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T09:00:00Z" to="2020-02-04T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.1" />
+            <windDirection deg="304.5" id="dd" name="NW" />
+            <windSpeed beaufort="3" id="ff" mps="4.0" name="Lett bris" />
+            <humidity unit="percent" value="91.0" />
+            <pressure id="pr" unit="hPa" value="1029.7" />
+            <cloudiness id="NN" percent="9.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="9.9" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T08:00:00Z" to="2020-02-04T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T10:00:00Z" to="2020-02-04T10:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.3" />
+            <windDirection deg="300.9" id="dd" name="NW" />
+            <windSpeed beaufort="3" id="ff" mps="5.5" name="Lett bris" />
+            <humidity unit="percent" value="89.2" />
+            <pressure id="pr" unit="hPa" value="1030.5" />
+            <cloudiness id="NN" percent="38.3" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="38.3" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T09:00:00Z" to="2020-02-04T10:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T11:00:00Z" to="2020-02-04T11:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.6" />
+            <windDirection deg="311.9" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="6.9" name="Laber bris" />
+            <humidity unit="percent" value="84.0" />
+            <pressure id="pr" unit="hPa" value="1031.2" />
+            <cloudiness id="NN" percent="76.2" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="76.2" />
+            <dewpointTemperature id="TD" unit="celsius" value="3.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T10:00:00Z" to="2020-02-04T11:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T12:00:00Z" to="2020-02-04T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.8" />
+            <windDirection deg="320.9" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="7.4" name="Laber bris" />
+            <humidity unit="percent" value="80.8" />
+            <pressure id="pr" unit="hPa" value="1031.9" />
+            <cloudiness id="NN" percent="57.6" />
+            <lowClouds id="LOW" percent="0.0" />
+            <mediumClouds id="MEDIUM" percent="0.0" />
+            <highClouds id="HIGH" percent="57.6" />
+            <dewpointTemperature id="TD" unit="celsius" value="3.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T11:00:00Z" to="2020-02-04T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation maxvalue="0.0" minvalue="0.0" unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T13:00:00Z" to="2020-02-04T13:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.4" />
+            <windDirection deg="297.8" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="7.1" name="Laber bris" />
+            <humidity unit="percent" value="63.5" />
+            <pressure id="pr" unit="hPa" value="1031.7" />
+            <cloudiness id="NN" percent="48.6" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T12:00:00Z" to="2020-02-04T13:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T14:00:00Z" to="2020-02-04T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="308.6" id="dd" name="NW" />
+            <windSpeed beaufort="4" id="ff" mps="6.6" name="Laber bris" />
+            <humidity unit="percent" value="60.4" />
+            <pressure id="pr" unit="hPa" value="1032.1" />
+            <cloudiness id="NN" percent="38.0" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T13:00:00Z" to="2020-02-04T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T15:00:00Z" to="2020-02-04T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="308.9" id="dd" name="NW" />
+            <windSpeed beaufort="3" id="ff" mps="5.5" name="Lett bris" />
+            <humidity unit="percent" value="59.2" />
+            <pressure id="pr" unit="hPa" value="1032.5" />
+            <cloudiness id="NN" percent="0.1" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T14:00:00Z" to="2020-02-04T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T16:00:00Z" to="2020-02-04T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.5" />
+            <windDirection deg="305.3" id="dd" name="NW" />
+            <windSpeed beaufort="3" id="ff" mps="4.5" name="Lett bris" />
+            <humidity unit="percent" value="61.7" />
+            <pressure id="pr" unit="hPa" value="1033.3" />
+            <cloudiness id="NN" percent="0.0" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T15:00:00Z" to="2020-02-04T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T17:00:00Z" to="2020-02-04T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.4" />
+            <windDirection deg="296.1" id="dd" name="NW" />
+            <windSpeed beaufort="2" id="ff" mps="3.0" name="Svak vind" />
+            <humidity unit="percent" value="65.1" />
+            <pressure id="pr" unit="hPa" value="1034.2" />
+            <cloudiness id="NN" percent="0.0" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T16:00:00Z" to="2020-02-04T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T18:00:00Z" to="2020-02-04T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.5" />
+            <windDirection deg="285.4" id="dd" name="W" />
+            <windSpeed beaufort="2" id="ff" mps="2.9" name="Svak vind" />
+            <humidity unit="percent" value="68.6" />
+            <pressure id="pr" unit="hPa" value="1035.0" />
+            <cloudiness id="NN" percent="0.8" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T17:00:00Z" to="2020-02-04T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T19:00:00Z" to="2020-02-04T19:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.1" />
+            <windDirection deg="286.2" id="dd" name="W" />
+            <windSpeed beaufort="2" id="ff" mps="3.2" name="Svak vind" />
+            <humidity unit="percent" value="69.5" />
+            <pressure id="pr" unit="hPa" value="1035.8" />
+            <cloudiness id="NN" percent="1.1" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T18:00:00Z" to="2020-02-04T19:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T20:00:00Z" to="2020-02-04T20:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.3" />
+            <windDirection deg="288.3" id="dd" name="W" />
+            <windSpeed beaufort="2" id="ff" mps="2.3" name="Svak vind" />
+            <humidity unit="percent" value="73.1" />
+            <pressure id="pr" unit="hPa" value="1036.2" />
+            <cloudiness id="NN" percent="0.8" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T19:00:00Z" to="2020-02-04T20:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T21:00:00Z" to="2020-02-04T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.3" />
+            <windDirection deg="282.9" id="dd" name="W" />
+            <windSpeed beaufort="2" id="ff" mps="2.2" name="Svak vind" />
+            <humidity unit="percent" value="79.1" />
+            <pressure id="pr" unit="hPa" value="1036.7" />
+            <cloudiness id="NN" percent="17.6" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T20:00:00Z" to="2020-02-04T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T22:00:00Z" to="2020-02-04T22:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.7" />
+            <windDirection deg="287.8" id="dd" name="W" />
+            <windSpeed beaufort="2" id="ff" mps="2.5" name="Svak vind" />
+            <humidity unit="percent" value="81.7" />
+            <pressure id="pr" unit="hPa" value="1037.1" />
+            <cloudiness id="NN" percent="7.2" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T21:00:00Z" to="2020-02-04T22:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T23:00:00Z" to="2020-02-04T23:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.4" />
+            <windDirection deg="283.1" id="dd" name="W" />
+            <windSpeed beaufort="2" id="ff" mps="3.0" name="Svak vind" />
+            <humidity unit="percent" value="80.0" />
+            <pressure id="pr" unit="hPa" value="1037.6" />
+            <cloudiness id="NN" percent="0.1" />
+            <lowClouds id="LOW" percent="0.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T22:00:00Z" to="2020-02-04T23:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T00:00:00Z" to="2020-02-05T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.4" />
+            <windDirection deg="295.6" id="dd" name="NW" />
+            <windSpeed beaufort="2" id="ff" mps="2.9" name="Svak vind" />
+            <humidity unit="percent" value="80.5" />
+            <pressure id="pr" unit="hPa" value="1037.6" />
+            <cloudiness id="NN" percent="16.7" />
+            <lowClouds id="LOW" percent="0.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-04T23:00:00Z" to="2020-02-05T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T01:00:00Z" to="2020-02-05T01:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.8" />
+            <windDirection deg="314.4" id="dd" name="NW" />
+            <windSpeed beaufort="2" id="ff" mps="2.3" name="Svak vind" />
+            <humidity unit="percent" value="83.2" />
+            <pressure id="pr" unit="hPa" value="1037.0" />
+            <cloudiness id="NN" percent="7.2" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T00:00:00Z" to="2020-02-05T01:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T02:00:00Z" to="2020-02-05T02:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.0" />
+            <windDirection deg="318.7" id="dd" name="NW" />
+            <windSpeed beaufort="2" id="ff" mps="2.2" name="Svak vind" />
+            <humidity unit="percent" value="87.0" />
+            <pressure id="pr" unit="hPa" value="1037.1" />
+            <cloudiness id="NN" percent="8.6" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T01:00:00Z" to="2020-02-05T02:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T03:00:00Z" to="2020-02-05T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="2.4" />
+            <windDirection deg="315.0" id="dd" name="NW" />
+            <windSpeed beaufort="1" id="ff" mps="1.9" name="Flau vind" />
+            <humidity unit="percent" value="89.5" />
+            <pressure id="pr" unit="hPa" value="1037.0" />
+            <cloudiness id="NN" percent="0.0" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T02:00:00Z" to="2020-02-05T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T04:00:00Z" to="2020-02-05T04:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="2.8" />
+            <windDirection deg="312.4" id="dd" name="NW" />
+            <windSpeed beaufort="1" id="ff" mps="1.0" name="Flau vind" />
+            <humidity unit="percent" value="89.0" />
+            <pressure id="pr" unit="hPa" value="1036.8" />
+            <cloudiness id="NN" percent="3.5" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T03:00:00Z" to="2020-02-05T04:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T05:00:00Z" to="2020-02-05T05:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.3" />
+            <windDirection deg="285.0" id="dd" name="W" />
+            <windSpeed beaufort="1" id="ff" mps="0.9" name="Flau vind" />
+            <humidity unit="percent" value="87.1" />
+            <pressure id="pr" unit="hPa" value="1037.0" />
+            <cloudiness id="NN" percent="65.6" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T04:00:00Z" to="2020-02-05T05:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T06:00:00Z" to="2020-02-05T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="3.9" />
+            <windDirection deg="268.4" id="dd" name="W" />
+            <windSpeed beaufort="1" id="ff" mps="0.9" name="Flau vind" />
+            <humidity unit="percent" value="85.4" />
+            <pressure id="pr" unit="hPa" value="1036.8" />
+            <cloudiness id="NN" percent="25.5" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T05:00:00Z" to="2020-02-05T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T07:00:00Z" to="2020-02-05T07:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.4" />
+            <windDirection deg="170.1" id="dd" name="S" />
+            <windSpeed beaufort="1" id="ff" mps="1.9" name="Flau vind" />
+            <humidity unit="percent" value="83.9" />
+            <pressure id="pr" unit="hPa" value="1036.6" />
+            <cloudiness id="NN" percent="48.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T06:00:00Z" to="2020-02-05T07:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T08:00:00Z" to="2020-02-05T08:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.1" />
+            <windDirection deg="181.6" id="dd" name="S" />
+            <windSpeed beaufort="2" id="ff" mps="3.1" name="Svak vind" />
+            <humidity unit="percent" value="91.9" />
+            <pressure id="pr" unit="hPa" value="1036.6" />
+            <cloudiness id="NN" percent="76.8" />
+            <lowClouds id="LOW" percent="2.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="2.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T07:00:00Z" to="2020-02-05T08:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T09:00:00Z" to="2020-02-05T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.2" />
+            <windDirection deg="189.2" id="dd" name="S" />
+            <windSpeed beaufort="2" id="ff" mps="3.5" name="Svak vind" />
+            <humidity unit="percent" value="89.3" />
+            <pressure id="pr" unit="hPa" value="1036.7" />
+            <cloudiness id="NN" percent="58.5" />
+            <lowClouds id="LOW" percent="4.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T08:00:00Z" to="2020-02-05T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T10:00:00Z" to="2020-02-05T10:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.2" />
+            <windDirection deg="198.6" id="dd" name="S" />
+            <windSpeed beaufort="3" id="ff" mps="4.5" name="Lett bris" />
+            <humidity unit="percent" value="90.0" />
+            <pressure id="pr" unit="hPa" value="1036.6" />
+            <cloudiness id="NN" percent="11.9" />
+            <lowClouds id="LOW" percent="3.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T09:00:00Z" to="2020-02-05T10:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T11:00:00Z" to="2020-02-05T11:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.6" />
+            <windDirection deg="204.8" id="dd" name="SW" />
+            <windSpeed beaufort="3" id="ff" mps="5.2" name="Lett bris" />
+            <humidity unit="percent" value="87.0" />
+            <pressure id="pr" unit="hPa" value="1036.5" />
+            <cloudiness id="NN" percent="16.1" />
+            <lowClouds id="LOW" percent="8.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T10:00:00Z" to="2020-02-05T11:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T12:00:00Z" to="2020-02-05T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="210.2" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="5.8" name="Laber bris" />
+            <humidity unit="percent" value="82.0" />
+            <pressure id="pr" unit="hPa" value="1036.3" />
+            <cloudiness id="NN" percent="32.9" />
+            <lowClouds id="LOW" percent="22.8" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T11:00:00Z" to="2020-02-05T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="LightCloud" number="2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T13:00:00Z" to="2020-02-05T13:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="214.6" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="6.2" name="Laber bris" />
+            <humidity unit="percent" value="80.5" />
+            <pressure id="pr" unit="hPa" value="1035.6" />
+            <cloudiness id="NN" percent="43.1" />
+            <lowClouds id="LOW" percent="40.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T12:00:00Z" to="2020-02-05T13:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T14:00:00Z" to="2020-02-05T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="214.4" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="6.2" name="Laber bris" />
+            <humidity unit="percent" value="80.9" />
+            <pressure id="pr" unit="hPa" value="1034.9" />
+            <cloudiness id="NN" percent="74.3" />
+            <lowClouds id="LOW" percent="45.6" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T13:00:00Z" to="2020-02-05T14:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="PartlyCloud" number="3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T15:00:00Z" to="2020-02-05T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.6" />
+            <windDirection deg="213.8" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="6.2" name="Laber bris" />
+            <humidity unit="percent" value="81.7" />
+            <pressure id="pr" unit="hPa" value="1034.3" />
+            <cloudiness id="NN" percent="90.2" />
+            <lowClouds id="LOW" percent="13.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T14:00:00Z" to="2020-02-05T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T16:00:00Z" to="2020-02-05T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.3" />
+            <windDirection deg="211.5" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="5.8" name="Laber bris" />
+            <humidity unit="percent" value="81.8" />
+            <pressure id="pr" unit="hPa" value="1033.8" />
+            <cloudiness id="NN" percent="96.5" />
+            <lowClouds id="LOW" percent="7.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T15:00:00Z" to="2020-02-05T16:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T17:00:00Z" to="2020-02-05T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.0" />
+            <windDirection deg="208.5" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="5.8" name="Laber bris" />
+            <humidity unit="percent" value="82.5" />
+            <pressure id="pr" unit="hPa" value="1033.5" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="26.3" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T16:00:00Z" to="2020-02-05T17:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T18:00:00Z" to="2020-02-05T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.0" />
+            <windDirection deg="203.5" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="5.8" name="Laber bris" />
+            <humidity unit="percent" value="82.8" />
+            <pressure id="pr" unit="hPa" value="1033.2" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="36.8" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T17:00:00Z" to="2020-02-05T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T21:00:00Z" to="2020-02-05T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.4" />
+            <windDirection deg="202.5" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="6.8" name="Laber bris" />
+            <humidity unit="percent" value="78.6" />
+            <pressure id="pr" unit="hPa" value="1032.4" />
+            <cloudiness id="NN" percent="98.5" />
+            <lowClouds id="LOW" percent="40.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="4.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T18:00:00Z" to="2020-02-05T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T00:00:00Z" to="2020-02-06T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.3" />
+            <windDirection deg="199.2" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="6.8" name="Laber bris" />
+            <humidity unit="percent" value="83.7" />
+            <pressure id="pr" unit="hPa" value="1031.2" />
+            <cloudiness id="NN" percent="90.4" />
+            <lowClouds id="LOW" percent="35.2" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-05T21:00:00Z" to="2020-02-06T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T03:00:00Z" to="2020-02-06T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.8" />
+            <windDirection deg="195.2" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="6.4" name="Laber bris" />
+            <humidity unit="percent" value="88.9" />
+            <pressure id="pr" unit="hPa" value="1030.0" />
+            <cloudiness id="NN" percent="92.5" />
+            <lowClouds id="LOW" percent="11.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T00:00:00Z" to="2020-02-06T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T06:00:00Z" to="2020-02-06T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.3" />
+            <windDirection deg="199.9" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.3" name="Laber bris" />
+            <humidity unit="percent" value="84.7" />
+            <pressure id="pr" unit="hPa" value="1028.8" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T03:00:00Z" to="2020-02-06T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T09:00:00Z" to="2020-02-06T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.5" />
+            <windDirection deg="200.5" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.9" name="Laber bris" />
+            <humidity unit="percent" value="82.7" />
+            <pressure id="pr" unit="hPa" value="1028.6" />
+            <cloudiness id="NN" percent="98.4" />
+            <lowClouds id="LOW" percent="95.6" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T06:00:00Z" to="2020-02-06T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T12:00:00Z" to="2020-02-06T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.2" />
+            <windDirection deg="202.2" id="dd" name="S" />
+            <windSpeed beaufort="5" id="ff" mps="8.8" name="Frisk bris" />
+            <humidity unit="percent" value="80.6" />
+            <pressure id="pr" unit="hPa" value="1028.4" />
+            <cloudiness id="NN" percent="98.0" />
+            <lowClouds id="LOW" percent="70.3" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T09:00:00Z" to="2020-02-06T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T15:00:00Z" to="2020-02-06T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.2" />
+            <windDirection deg="204.1" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="8.4" name="Laber bris" />
+            <humidity unit="percent" value="85.5" />
+            <pressure id="pr" unit="hPa" value="1027.3" />
+            <cloudiness id="NN" percent="97.6" />
+            <lowClouds id="LOW" percent="45.6" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T12:00:00Z" to="2020-02-06T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T18:00:00Z" to="2020-02-06T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.2" />
+            <windDirection deg="206.0" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="7.8" name="Laber bris" />
+            <humidity unit="percent" value="87.7" />
+            <pressure id="pr" unit="hPa" value="1027.7" />
+            <cloudiness id="NN" percent="98.0" />
+            <lowClouds id="LOW" percent="24.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.2" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T15:00:00Z" to="2020-02-06T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T21:00:00Z" to="2020-02-06T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.1" />
+            <windDirection deg="206.6" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="6.8" name="Laber bris" />
+            <humidity unit="percent" value="90.0" />
+            <pressure id="pr" unit="hPa" value="1028.3" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T18:00:00Z" to="2020-02-06T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T00:00:00Z" to="2020-02-07T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.3" />
+            <windDirection deg="206.1" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="5.7" name="Laber bris" />
+            <humidity unit="percent" value="91.9" />
+            <pressure id="pr" unit="hPa" value="1028.6" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-06T21:00:00Z" to="2020-02-07T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T03:00:00Z" to="2020-02-07T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.2" />
+            <windDirection deg="214.2" id="dd" name="SW" />
+            <windSpeed beaufort="3" id="ff" mps="4.3" name="Lett bris" />
+            <humidity unit="percent" value="95.4" />
+            <pressure id="pr" unit="hPa" value="1028.4" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T00:00:00Z" to="2020-02-07T03:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T06:00:00Z" to="2020-02-07T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.1" />
+            <windDirection deg="206.5" id="dd" name="SW" />
+            <windSpeed beaufort="3" id="ff" mps="4.0" name="Lett bris" />
+            <humidity unit="percent" value="97.7" />
+            <pressure id="pr" unit="hPa" value="1027.6" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T03:00:00Z" to="2020-02-07T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T09:00:00Z" to="2020-02-07T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.2" />
+            <windDirection deg="195.0" id="dd" name="S" />
+            <windSpeed beaufort="3" id="ff" mps="4.9" name="Lett bris" />
+            <humidity unit="percent" value="97.0" />
+            <pressure id="pr" unit="hPa" value="1028.1" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T06:00:00Z" to="2020-02-07T09:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T12:00:00Z" to="2020-02-07T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.6" />
+            <windDirection deg="186.5" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.0" name="Laber bris" />
+            <humidity unit="percent" value="93.3" />
+            <pressure id="pr" unit="hPa" value="1027.6" />
+            <cloudiness id="NN" percent="97.1" />
+            <lowClouds id="LOW" percent="97.7" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T09:00:00Z" to="2020-02-07T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.3" />
+<symbol id="Drizzle" number="46" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T15:00:00Z" to="2020-02-07T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.3" />
+            <windDirection deg="192.1" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.6" name="Laber bris" />
+            <humidity unit="percent" value="88.8" />
+            <pressure id="pr" unit="hPa" value="1025.4" />
+            <cloudiness id="NN" percent="96.6" />
+            <lowClouds id="LOW" percent="97.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T12:00:00Z" to="2020-02-07T15:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T18:00:00Z" to="2020-02-07T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="190.5" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.1" name="Laber bris" />
+            <humidity unit="percent" value="88.8" />
+            <pressure id="pr" unit="hPa" value="1024.3" />
+            <cloudiness id="NN" percent="98.4" />
+            <lowClouds id="LOW" percent="99.5" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T15:00:00Z" to="2020-02-07T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T21:00:00Z" to="2020-02-07T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.7" />
+            <windDirection deg="183.9" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.1" name="Laber bris" />
+            <humidity unit="percent" value="91.3" />
+            <pressure id="pr" unit="hPa" value="1023.2" />
+            <cloudiness id="NN" percent="89.0" />
+            <lowClouds id="LOW" percent="89.7" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T18:00:00Z" to="2020-02-07T21:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T00:00:00Z" to="2020-02-08T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.2" />
+            <windDirection deg="189.6" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.0" name="Laber bris" />
+            <humidity unit="percent" value="84.4" />
+            <pressure id="pr" unit="hPa" value="1022.1" />
+            <cloudiness id="NN" percent="86.3" />
+            <lowClouds id="LOW" percent="87.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-07T21:00:00Z" to="2020-02-08T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T06:00:00Z" to="2020-02-08T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.8" />
+            <windDirection deg="181.5" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.2" name="Laber bris" />
+            <humidity unit="percent" value="85.7" />
+            <pressure id="pr" unit="hPa" value="1019.2" />
+            <cloudiness id="NN" percent="98.4" />
+            <lowClouds id="LOW" percent="57.3" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T00:00:00Z" to="2020-02-08T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T12:00:00Z" to="2020-02-08T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.7" />
+            <windDirection deg="188.8" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.9" name="Laber bris" />
+            <humidity unit="percent" value="89.2" />
+            <pressure id="pr" unit="hPa" value="1019.4" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T06:00:00Z" to="2020-02-08T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T18:00:00Z" to="2020-02-08T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.9" />
+            <windDirection deg="201.6" id="dd" name="S" />
+            <windSpeed beaufort="4" id="ff" mps="7.9" name="Laber bris" />
+            <humidity unit="percent" value="93.1" />
+            <pressure id="pr" unit="hPa" value="1020.0" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T12:00:00Z" to="2020-02-08T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.5" />
+<symbol id="Drizzle" number="46" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T00:00:00Z" to="2020-02-09T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.5" />
+            <windDirection deg="251.8" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="6.0" name="Laber bris" />
+            <humidity unit="percent" value="83.8" />
+            <pressure id="pr" unit="hPa" value="1023.0" />
+            <cloudiness id="NN" percent="5.6" />
+            <lowClouds id="LOW" percent="4.7" />
+            <dewpointTemperature id="TD" unit="celsius" value="3.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-08T18:00:00Z" to="2020-02-09T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T06:00:00Z" to="2020-02-09T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.5" />
+            <windDirection deg="222.0" id="dd" name="SW" />
+            <windSpeed beaufort="5" id="ff" mps="10.9" name="Frisk bris" />
+            <humidity unit="percent" value="68.8" />
+            <pressure id="pr" unit="hPa" value="1020.8" />
+            <cloudiness id="NN" percent="98.0" />
+            <lowClouds id="LOW" percent="2.2" />
+            <dewpointTemperature id="TD" unit="celsius" value="3.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T00:00:00Z" to="2020-02-09T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T12:00:00Z" to="2020-02-09T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="9.9" />
+            <windDirection deg="222.5" id="dd" name="SW" />
+            <windSpeed beaufort="7" id="ff" mps="14.4" name="Stiv kuling" />
+            <humidity unit="percent" value="75.4" />
+            <pressure id="pr" unit="hPa" value="1018.1" />
+            <cloudiness id="NN" percent="98.9" />
+            <lowClouds id="LOW" percent="6.1" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.7" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T06:00:00Z" to="2020-02-09T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T18:00:00Z" to="2020-02-09T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="10.2" />
+            <windDirection deg="226.7" id="dd" name="SW" />
+            <windSpeed beaufort="7" id="ff" mps="14.8" name="Stiv kuling" />
+            <humidity unit="percent" value="83.4" />
+            <pressure id="pr" unit="hPa" value="1015.3" />
+            <cloudiness id="NN" percent="98.9" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="7.5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T12:00:00Z" to="2020-02-09T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T00:00:00Z" to="2020-02-10T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="10.2" />
+            <windDirection deg="221.9" id="dd" name="SW" />
+            <windSpeed beaufort="6" id="ff" mps="14.4" name="Liten kuling" />
+            <humidity unit="percent" value="89.8" />
+            <pressure id="pr" unit="hPa" value="1012.6" />
+            <cloudiness id="NN" percent="98.7" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="8.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-09T18:00:00Z" to="2020-02-10T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="3.2" />
+<symbol id="LightRain" number="9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T06:00:00Z" to="2020-02-10T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="10.5" />
+            <windDirection deg="218.1" id="dd" name="SW" />
+            <windSpeed beaufort="7" id="ff" mps="14.9" name="Stiv kuling" />
+            <humidity unit="percent" value="91.1" />
+            <pressure id="pr" unit="hPa" value="1007.0" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="9.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T00:00:00Z" to="2020-02-10T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="8.6" />
+<symbol id="Rain" number="10" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T12:00:00Z" to="2020-02-10T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="10.2" />
+            <windDirection deg="255.1" id="dd" name="W" />
+            <windSpeed beaufort="6" id="ff" mps="11.8" name="Liten kuling" />
+            <humidity unit="percent" value="70.5" />
+            <pressure id="pr" unit="hPa" value="1008.3" />
+            <cloudiness id="NN" percent="42.5" />
+            <lowClouds id="LOW" percent="8.2" />
+            <dewpointTemperature id="TD" unit="celsius" value="5.0" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T06:00:00Z" to="2020-02-10T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="1.1" />
+<symbol id="LightRainSun" number="5" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T18:00:00Z" to="2020-02-10T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="6.8" />
+            <windDirection deg="264.4" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.8" name="Laber bris" />
+            <humidity unit="percent" value="53.2" />
+            <pressure id="pr" unit="hPa" value="1015.9" />
+            <cloudiness id="NN" percent="0.4" />
+            <lowClouds id="LOW" percent="0.4" />
+            <dewpointTemperature id="TD" unit="celsius" value="-2.3" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T12:00:00Z" to="2020-02-10T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T00:00:00Z" to="2020-02-11T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="5.0" />
+            <windDirection deg="259.9" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="8.3" name="Laber bris" />
+            <humidity unit="percent" value="62.5" />
+            <pressure id="pr" unit="hPa" value="1021.9" />
+            <cloudiness id="NN" percent="0.0" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="-1.8" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-10T18:00:00Z" to="2020-02-11T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T06:00:00Z" to="2020-02-11T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="4.7" />
+            <windDirection deg="261.1" id="dd" name="W" />
+            <windSpeed beaufort="4" id="ff" mps="7.6" name="Laber bris" />
+            <humidity unit="percent" value="67.3" />
+            <pressure id="pr" unit="hPa" value="1025.6" />
+            <cloudiness id="NN" percent="0.0" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="-1.1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T00:00:00Z" to="2020-02-11T06:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Sun" number="1" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T12:00:00Z" to="2020-02-11T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="7.2" />
+            <windDirection deg="240.5" id="dd" name="SW" />
+            <windSpeed beaufort="4" id="ff" mps="8.5" name="Laber bris" />
+            <humidity unit="percent" value="64.0" />
+            <pressure id="pr" unit="hPa" value="1029.5" />
+            <cloudiness id="NN" percent="89.9" />
+            <lowClouds id="LOW" percent="0.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="0.6" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T06:00:00Z" to="2020-02-11T12:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T18:00:00Z" to="2020-02-11T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.2" />
+            <windDirection deg="217.9" id="dd" name="SW" />
+            <windSpeed beaufort="6" id="ff" mps="13.9" name="Liten kuling" />
+            <humidity unit="percent" value="65.2" />
+            <pressure id="pr" unit="hPa" value="1023.5" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="35.3" />
+            <dewpointTemperature id="TD" unit="celsius" value="1.9" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T12:00:00Z" to="2020-02-11T18:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="0.0" />
+<symbol id="Cloud" number="4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-12T00:00:00Z" to="2020-02-12T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <temperature id="TTT" unit="celsius" value="8.2" />
+            <windDirection deg="204.1" id="dd" name="SW" />
+            <windSpeed beaufort="7" id="ff" mps="15.8" name="Stiv kuling" />
+            <humidity unit="percent" value="88.7" />
+            <pressure id="pr" unit="hPa" value="1011.4" />
+            <cloudiness id="NN" percent="98.8" />
+            <lowClouds id="LOW" percent="100.0" />
+            <dewpointTemperature id="TD" unit="celsius" value="6.4" />
+         </location>
+      </time>
+      <time datatype="forecast" from="2020-02-11T18:00:00Z" to="2020-02-12T00:00:00Z">
+         <location altitude="62" latitude="52.2917" longitude="-6.4972">
+            <precipitation unit="mm" value="4.7" />
+<symbol id="LightRain" number="9" />
+         </location>
+      </time>
+   </product>
+</weatherdata>

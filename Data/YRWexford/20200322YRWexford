@@ -1,0 +1,407 @@
+<weatherdata>
+  <location>
+    <name>Johnstown Castle</name>
+    <type>Estate</type>
+    <country>Ireland</country>
+    <timezone id="Europe/Dublin" utcoffsetMinutes="0" />
+    <location altitude="45" geobase="geonames" geobaseid="2963563" latitude="52.29167" longitude="-6.49722" />
+  </location>
+  <credit>
+    
+    
+    <link text="Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Ireland/Leinster/Johnstown_Castle/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Ireland/Leinster/Johnstown_Castle/forecast.xml" />
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Ireland/Leinster/Johnstown_Castle/forecast_hour_by_hour.xml" />
+    <link id="overview" url="http://www.yr.no/place/Ireland/Leinster/Johnstown_Castle/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Ireland/Leinster/Johnstown_Castle/hour_by_hour" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Ireland/Leinster/Johnstown_Castle/long" />
+  </links>
+  <meta>
+    <lastupdate>2020-03-22T01:12:01</lastupdate>
+    <nextupdate>2020-03-22T07:14:38</nextupdate>
+  </meta>
+  <sun rise="2020-03-22T06:23:06" set="2020-03-22T18:43:25" />
+  <forecast>
+    <tabular>
+      <time from="2020-03-22T02:00:00" period="0" to="2020-03-22T06:00:00">
+        
+        <symbol name="Clear sky" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="ESE" deg="106.8" name="East-southeast" />
+        <windSpeed mps="4.1" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1025.5" />
+      </time>
+      <time from="2020-03-22T06:00:00" period="1" to="2020-03-22T12:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02d" />
+        <precipitation value="0" />
+        
+        <windDirection code="E" deg="96.9" name="East" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1025.6" />
+      </time>
+      <time from="2020-03-22T12:00:00" period="2" to="2020-03-22T18:00:00">
+        
+        <symbol name="Clear sky" number="1" numberEx="1" var="01d" />
+        <precipitation value="0" />
+        
+        <windDirection code="ESE" deg="117.2" name="East-southeast" />
+        <windSpeed mps="4.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1027.1" />
+      </time>
+      <time from="2020-03-22T18:00:00" period="3" to="2020-03-23T00:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="ENE" deg="70.2" name="East-northeast" />
+        <windSpeed mps="2.3" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1025.9" />
+      </time>
+      <time from="2020-03-23T00:00:00" period="0" to="2020-03-23T06:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="SE" deg="138.6" name="Southeast" />
+        <windSpeed mps="5.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1025.0" />
+      </time>
+      <time from="2020-03-23T06:00:00" period="1" to="2020-03-23T12:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SE" deg="144.6" name="Southeast" />
+        <windSpeed mps="3.7" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1023.8" />
+      </time>
+      <time from="2020-03-23T12:00:00" period="2" to="2020-03-23T18:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="168.2" name="South-southeast" />
+        <windSpeed mps="4.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1023.6" />
+      </time>
+      <time from="2020-03-23T18:00:00" period="3" to="2020-03-24T00:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSE" deg="166.9" name="South-southeast" />
+        <windSpeed mps="4.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1021.6" />
+      </time>
+      <time from="2020-03-24T00:00:00" period="0" to="2020-03-24T06:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="178.0" name="South" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1021.3" />
+      </time>
+      <time from="2020-03-24T06:00:00" period="1" to="2020-03-24T12:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="S" deg="189.9" name="South" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1019.8" />
+      </time>
+      <time from="2020-03-24T12:00:00" period="2" to="2020-03-24T18:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="206.0" name="South-southwest" />
+        <windSpeed mps="7.0" name="Moderate breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1020.2" />
+      </time>
+      <time from="2020-03-24T18:00:00" period="3" to="2020-03-25T00:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="202.4" name="South-southwest" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1019.6" />
+      </time>
+      <time from="2020-03-25T00:00:00" period="0" to="2020-03-25T06:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0.2" />
+        
+        <windDirection code="SSW" deg="194.6" name="South-southwest" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1020.1" />
+      </time>
+      <time from="2020-03-25T06:00:00" period="1" to="2020-03-25T12:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0.2" />
+        
+        <windDirection code="SSW" deg="193.8" name="South-southwest" />
+        <windSpeed mps="4.9" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1019.7" />
+      </time>
+      <time from="2020-03-25T12:00:00" period="2" to="2020-03-25T18:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="SSW" deg="204.3" name="South-southwest" />
+        <windSpeed mps="4.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1021.4" />
+      </time>
+      <time from="2020-03-25T18:00:00" period="3" to="2020-03-26T00:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0.4" />
+        
+        <windDirection code="SW" deg="225.5" name="Southwest" />
+        <windSpeed mps="3.3" name="Light breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1021.6" />
+      </time>
+      <time from="2020-03-26T00:00:00" period="0" to="2020-03-26T06:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="1.4" />
+        
+        <windDirection code="NNE" deg="28.7" name="North-northeast" />
+        <windSpeed mps="4.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1022.6" />
+      </time>
+      <time from="2020-03-26T06:00:00" period="1" to="2020-03-26T12:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0.2" />
+        
+        <windDirection code="NNE" deg="11.8" name="North-northeast" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1023.0" />
+      </time>
+      <time from="2020-03-26T12:00:00" period="2" to="2020-03-26T18:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNE" deg="11.3" name="North-northeast" />
+        <windSpeed mps="3.7" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1023.9" />
+      </time>
+      <time from="2020-03-26T18:00:00" period="3" to="2020-03-27T00:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="N" deg="3.1" name="North" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1023.4" />
+      </time>
+      <time from="2020-03-27T00:00:00" period="0" to="2020-03-27T06:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="311.5" name="Northwest" />
+        <windSpeed mps="3.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1025.1" />
+      </time>
+      <time from="2020-03-27T06:00:00" period="1" to="2020-03-27T12:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="310.4" name="Northwest" />
+        <windSpeed mps="4.9" name="Gentle breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1025.9" />
+      </time>
+      <time from="2020-03-27T12:00:00" period="2" to="2020-03-27T18:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="308.7" name="Northwest" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1026.8" />
+      </time>
+      <time from="2020-03-27T18:00:00" period="3" to="2020-03-28T00:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="322.1" name="Northwest" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1026.3" />
+      </time>
+      <time from="2020-03-28T00:00:00" period="0" to="2020-03-28T06:00:00">
+        
+        <symbol name="Clear sky" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="314.4" name="Northwest" />
+        <windSpeed mps="5.7" name="Moderate breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1028.1" />
+      </time>
+      <time from="2020-03-28T06:00:00" period="1" to="2020-03-28T12:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02d" />
+        <precipitation value="0.1" />
+        
+        <windDirection code="NNW" deg="333.1" name="North-northwest" />
+        <windSpeed mps="5.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1028.9" />
+      </time>
+      <time from="2020-03-28T12:00:00" period="2" to="2020-03-28T18:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02d" />
+        <precipitation value="0.2" />
+        
+        <windDirection code="N" deg="7.1" name="North" />
+        <windSpeed mps="7.3" name="Moderate breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1030.1" />
+      </time>
+      <time from="2020-03-28T18:00:00" period="3" to="2020-03-29T00:00:00">
+        
+        <symbol name="Clear sky" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="N" deg="356.0" name="North" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1030.8" />
+      </time>
+      <time from="2020-03-29T00:00:00" period="0" to="2020-03-29T07:00:00">
+        
+        <symbol name="Clear sky" number="1" numberEx="1" var="01n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="341.8" name="North-northwest" />
+        <windSpeed mps="5.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1033.7" />
+      </time>
+      <time from="2020-03-29T07:00:00" period="1" to="2020-03-29T13:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03d" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="348.1" name="North-northwest" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="1" />
+        <pressure unit="hPa" value="1033.7" />
+      </time>
+      <time from="2020-03-29T13:00:00" period="2" to="2020-03-29T19:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNE" deg="23.5" name="North-northeast" />
+        <windSpeed mps="5.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1033.7" />
+      </time>
+      <time from="2020-03-29T19:00:00" period="3" to="2020-03-30T01:00:00">
+        
+        <symbol name="Partly cloudy" number="3" numberEx="3" var="03n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NE" deg="41.0" name="Northeast" />
+        <windSpeed mps="3.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1031.4" />
+      </time>
+      <time from="2020-03-30T01:00:00" period="0" to="2020-03-30T07:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0" />
+        
+        <windDirection code="NW" deg="325.4" name="Northwest" />
+        <windSpeed mps="2.2" name="Light breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1029.8" />
+      </time>
+      <time from="2020-03-30T07:00:00" period="1" to="2020-03-30T13:00:00">
+        
+        <symbol name="Cloudy" number="4" numberEx="4" var="04" />
+        <precipitation value="0.3" />
+        
+        <windDirection code="WNW" deg="296.9" name="West-northwest" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celsius" value="2" />
+        <pressure unit="hPa" value="1025.8" />
+      </time>
+      <time from="2020-03-30T13:00:00" period="2" to="2020-03-30T19:00:00">
+        
+        <symbol name="Rain" number="9" numberEx="9" var="09" />
+        <precipitation value="4.5" />
+        
+        <windDirection code="SW" deg="229.9" name="Southwest" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1021.2" />
+      </time>
+      <time from="2020-03-30T19:00:00" period="3" to="2020-03-31T01:00:00">
+        
+        <symbol name="Light rain showers" number="5" numberEx="40" var="40n" />
+        <precipitation value="0.7" />
+        
+        <windDirection code="SW" deg="225.2" name="Southwest" />
+        <windSpeed mps="6.4" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1014.4" />
+      </time>
+      <time from="2020-03-31T01:00:00" period="0" to="2020-03-31T07:00:00">
+        
+        <symbol name="Fair" number="2" numberEx="2" var="02n" />
+        <precipitation value="0" />
+        
+        <windDirection code="NNW" deg="326.7" name="North-northwest" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1013.4" />
+      </time>
+    </tabular>
+  </forecast>
+  <weatherstation distance="0" lat="0" lon="0" name="" source="" stno="0" sttype="">
+    
+    <symbol name="" number="0" time="2019-11-14T00:00:00Z" />
+    <temperature time="2019-11-14T00:00:00Z" unit="" value="0" />
+    <windDirection code="" deg="0" name="" time="2019-11-14T00:00:00Z" />
+    <windSpeed mps="0" name="" time="2019-11-14T00:00:00Z" />
+  </weatherstation>
+</weatherdata>
